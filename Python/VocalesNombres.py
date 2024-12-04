@@ -14,8 +14,7 @@ def calculo(nombres,contador):
     return contador
     
 for i in range(n):
-    nombre = input(f"Ingresa el nombre nª {i+1} : ").lower()
-    nombres.append(nombre)
+    nombres.append(input(f"Ingresa el nombre nª {i+1} : ").lower())
 calculo(nombres,contador)
 
 for i in range(len(nombres)):
