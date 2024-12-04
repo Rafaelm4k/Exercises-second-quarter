@@ -15,7 +15,7 @@ Este repositorio contiene ejercicios realizados en los siguientes lenguajes de p
 La estructura básica de este repositorio es la siguiente:
 
 
-/Clases-GitHub 
+/Exercises-second-quarter 
     /Java 
         └── Ejercicios en Java 
     /html 
