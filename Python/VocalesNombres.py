@@ -21,4 +21,4 @@ calculo(nombres,contador)
 for i in range(len(nombres)):
     print(f"El nombre de {nombres[i]} tiene {contador[i]} Vocales.")
 
-
+print("Ejercicio realizado por rf_jr")
