@@ -12,7 +12,7 @@ public class listayconjunto{
         for (int j = 0; j < conjunto.length; j++){
             if (conjunto[j].equals(palabras)){
                 encontrado = true;
-            }              
+            }
         }
         return encontrado;
     }
